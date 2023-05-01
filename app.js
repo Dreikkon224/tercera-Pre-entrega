@@ -1,4 +1,4 @@
-const productos = [new productos(1,"naruto","ShonenJump",4,2,500),new productos(2,"OnePiece","ShonenJump",3,1,400),new productos(3,"ReZero","PaniniManga",2.4,224)];
+const productos = [new Producto(1,"naruto","ShonenJump",4,2,500),new Producto(2,"OnePiece","ShonenJump",3,1,400),new Producto(3,"ReZero","PaniniManga",2,4,224)]
 
 const boton1 = document.getElementById("boton1");
 const boton2 = document.getElementById("boton2");
